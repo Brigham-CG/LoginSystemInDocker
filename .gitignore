@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Node
+node_modules/
+build/
+dist/
+
+# Docker volumes
+volumes/
+db_data/
+
+# Others
+*.log
+.DS_Store
