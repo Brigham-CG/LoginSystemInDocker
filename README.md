@@ -29,7 +29,7 @@ Una vez levantado el proyecto, puedes acceder a las siguientes rutas desde tu na
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tuusuario/login-system-docker.git
+git clone https://github.com/Brigham-CG/LoginSystemInDocker.git
 cd login-system-docker
 ```
 
