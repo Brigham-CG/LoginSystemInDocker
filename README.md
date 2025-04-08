@@ -20,7 +20,6 @@ Una vez levantado el proyecto, puedes acceder a las siguientes rutas desde tu na
 - **Login:** [http://localhost:3000/login](http://localhost:3000/login)  
   ![Login](images/login.png)
 
-> Asegúrate de reemplazar las imágenes en la carpeta `images/` con capturas reales de tu proyecto.
 
 ---
 
