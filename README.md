@@ -29,7 +29,7 @@ Una vez levantado el proyecto, puedes acceder a las siguientes rutas desde tu na
 
 ```bash
 git clone https://github.com/Brigham-CG/LoginSystemInDocker.git
-cd login-system-docker
+cd login_system_docker
 ```
 
 2. Levanta los servicios con el siguiente comando:
