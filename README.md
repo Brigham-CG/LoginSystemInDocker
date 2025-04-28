@@ -29,12 +29,13 @@ Una vez levantado el proyecto, puedes acceder a las siguientes rutas desde tu na
 
 ```bash
 git clone https://github.com/Brigham-CG/LoginSystemInDocker.git
-cd login_system_docker
+cd loginSystemInDocker
 ```
 
 2. Levanta los servicios con el siguiente comando:
 
 ```bash
+cd login_system
 docker-compose up --build
 ```
 Este comando construirá y levantará los tres servicios: el frontend, el backend y la base de datos PostgreSQL.
